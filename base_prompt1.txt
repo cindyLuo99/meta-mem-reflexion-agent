@@ -1,0 +1,75 @@
+You are hungry! Let's cook a delicious meal. Check the cookbook in the kitchen for the recipe. Once done, enjoy your meal!
+-= Kitchen =-
+You are in a kitchen. A standard kind of place.
+You see a closed fridge. You make out a closed conventional looking oven close by. You make out a table. The table is massive. On the table you see a cookbook and a knife. You can't wait to tell the folks at home about this! You can see a counter. You see a green hot pepper, a red hot pepper, a green apple, a red bell pepper, a raw red tuna and a green bell pepper on the counter. Hmmm... what else, what else? You can make out a stove. You wonder idly who left that here. The stove is conventional. Looks like someone's already been here and taken everything off it, though.
+> think: To cook a delicious meal, I need to find a recipe in the cookbook. 
+OK.
+> examine cookbook
+You open the copy of "Cooking: A Modern Approach (3rd Ed.)" and start reading:
+Recipe #1
+---------
+Gather all following ingredients and follow the directions to prepare this tasty meal.
+
+Ingredients:
+lettuce
+  green hot pepper
+  orange bell pepper
+
+Directions:
+dice the lettuce
+  fry the lettuce
+  slice the green hot pepper
+  roast the green hot pepper
+  dice the orange bell pepper
+  fry the orange bell pepper
+  prepare meal
+> examine counter
+The counter is undependable.
+On the counter are a green hot pepper, a red hot pepper, a green apple, a red bell pepper, a raw red tuna and a green bell pepper.
+> think: Listed ingredients green hot pepper is on the counter. And I need to slice the green hot pepper with a knife. 
+OK.
+> take the green hot pepper
+You take the green hot pepper from the counter.
+Your score has just gone up by one point.
+> take the knife
+You take the knife from the table.
+> slice the green hot pepper with the knife
+(with the knife)
+You slice the green hot pepper.
+Your score has just gone up by one point.
+> think: I have already gathered all ingredients on the counter. I need to check the fridge. 
+OK. 
+> open fridge
+You open the fridge, revealing an orange bell pepper, a lettuce and a yellow bell pepper.
+> take the orange bell pepper and the lettuce
+orange bell pepper: You take the orange bell pepper from the fridge.
+lettuce: You take the lettuce from the fridge.
+Your score has just gone up by two points.
+> dice the orange bell pepper with the knife
+(with the knife)
+You dice the orange bell pepper.
+Your score has just gone up by one point.
+> dice the lettuce with the knife
+(with the knife)
+You dice the lettuce.
+Your score has just gone up by one point.
+> think: To fry the lettuce, I need to cook the lettuce with the stove.
+OK.
+> cook the lettuce with stove
+You fried the lettuce
+Your score has just gone up by one point.
+> cook the orange bell pepper with stove
+You fried the orange bell pepper.
+Your score has just gone up by one point.
+> think: I haven't done all Directions before "prepare meal". I still need to finish all other Directions
+OK. 
+> cook the green hot pepper with oven
+You roasted the green hot pepper.
+Your score has just gone up by one point.
+> think: I have done all Directions before "prepare meal". I can prepare meal.
+OK. 
+> prepare meal
+Adding the meal to your inventory.
+> eat the meal
+You eat the meal. Not bad.
+Your score has just gone up by one point.
